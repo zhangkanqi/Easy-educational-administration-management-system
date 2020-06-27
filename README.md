@@ -1,2 +1,1 @@
-# Projects-in-university
-All projects  I have done in university!
+# Easy College educational administration system (C++ )
